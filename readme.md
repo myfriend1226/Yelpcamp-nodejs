@@ -149,4 +149,4 @@ CREATE  /campgrounds
 SHOW    /campgrounds/:id
 
 NEW     campgrounds/:id/comments/new    GET
-CREATE  campgrounds/:id/comments      POST"# Yelpcamp-nodejs" 
+CREATE  campgrounds/:id/comments      POST
